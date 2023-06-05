@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Ejercicio07\Ejercicio07\Ejercicio07\obj\Debug\netstandard2.0\Ejercicio07.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ejercicio07\Ejercicio07\Ejercicio07\obj\Debug\netstandard2.0\Ejercicio07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Ejercicio07\Ejercicio07\Ejercicio07\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\Ejercicio07\Ejercicio07\Ejercicio07\obj\Debug\netstandard2.0\BindingModeDemo.xaml.g.cs
+C:\Users\user\source\repos\Ejercicio07\Ejercicio07\Ejercicio07\obj\Debug\netstandard2.0\ListViewDemo.xaml.g.cs
+C:\Users\user\source\repos\Ejercicio07\Ejercicio07\Ejercicio07\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\Ejercicio07\Ejercicio07\Ejercicio07\obj\Debug\netstandard2.0\PickerDemo.xaml.g.cs
+C:\Users\user\source\repos\Ejercicio07\Ejercicio07\Ejercicio07\obj\Debug\netstandard2.0\ViewToViewDemo.xaml.g.cs
+C:\Users\user\source\repos\Ejercicio07\Ejercicio07\Ejercicio07\obj\Debug\netstandard2.0\Ejercicio07.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Ejercicio07\Ejercicio07\Ejercicio07\obj\Debug\netstandard2.0\Ejercicio07.AssemblyInfo.cs
+C:\Users\user\source\repos\Ejercicio07\Ejercicio07\Ejercicio07\obj\Debug\netstandard2.0\Ejercicio07.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ejercicio07\Ejercicio07\Ejercicio07\obj\Debug\netstandard2.0\Ejercicio07.dll
+C:\Users\user\source\repos\Ejercicio07\Ejercicio07\Ejercicio07\obj\Debug\netstandard2.0\refint\Ejercicio07.dll
+C:\Users\user\source\repos\Ejercicio07\Ejercicio07\Ejercicio07\obj\Debug\netstandard2.0\Ejercicio07.pdb
